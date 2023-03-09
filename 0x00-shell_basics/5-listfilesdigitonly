@@ -1,2 +1,2 @@
 #!/bon/bash
-ls -lna
+ls -lan
