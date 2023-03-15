@@ -1,2 +1,0 @@
-#!/bin/bash
-grep ^ [[:alph7a:]] /etc/passwd
