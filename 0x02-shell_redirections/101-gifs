@@ -1,0 +1,2 @@
+#!/bin/bash
+finf -type f -name "*.git" | rev | cut -d "/" -f | cut -d '.'2- | rev | LC_ALL=C sort -f
