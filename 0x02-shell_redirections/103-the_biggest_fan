@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -n --key=3 -r nasa_19950801.tsv | head -n 11 | cut -f 1
